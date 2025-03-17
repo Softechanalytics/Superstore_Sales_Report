@@ -25,17 +25,19 @@
 <h4>Top-performing customer segments: Corporate and Home Office</h4>
   </ul>
 <h3>🚀 How to Use</h3>
-Open the Power BI dashboard.
-Use state filters to analyze specific locations.
-Review profit trends over time to identify growth patterns.
-Explore sub-category breakdowns for product performance.
+<h4>Open the Power BI dashboard.</h4>
+<ul>
+<li>Use state filters to analyze specific locations.</li>
+<li>Review profit trends over time to identify growth patterns.</li>
+<li>Explore sub-category breakdowns for product performance.</li>
+  </ul>
 <h3>🛠 Tech Stack</h3>
-Power BI: Data visualization
-Excel / SQL: Data preparation
-DAX / M Query: Data modeling
+<li>Power BI: Data visualization</li>
+<li>Excel / SQL: Data preparation</li>
+<li>DAX / M Query: Data modeling</li>
 <h3>📌 Future Enhancements</h3>
-Interactive drill-through for deeper insights.
-Advanced forecasting models for predictive analytics.
-Integration with live data sources.
+<li>Interactive drill-through for deeper insights.</li>
+<li>Advanced forecasting models for predictive analytics.</li>
+<li>Integration with live data sources.</li>
 <h3>📞 Contact</h3>
-For inquiries or feedback, please reach out via GitHub issues or email.
+For inquiries or feedback, please reach out via GitHub issues or Chuks@softechanalytics.com
