@@ -11,7 +11,7 @@
 <li>Trend Analysis: Profit over time with year-quarter visualization.</li>
 <li>State-Level Filtering: Select states to analyze specific data points.</li>
   </ul>
-📌 Insights
+<h3>📌 Insights</h3>
 Total sales: $2.3M+
 Total quantity sold: 38K+
 Total profit: $286K
@@ -22,18 +22,18 @@ West: 108K
 Central: 40K
 East: 31.9K
 Top-performing customer segments: Corporate and Home Office
-🚀 How to Use
+<h3>🚀 How to Use</h3>
 Open the Power BI dashboard.
 Use state filters to analyze specific locations.
 Review profit trends over time to identify growth patterns.
 Explore sub-category breakdowns for product performance.
-🛠 Tech Stack
+<h3>🛠 Tech Stack</h3>
 Power BI: Data visualization
 Excel / SQL: Data preparation
 DAX / M Query: Data modeling
-📌 Future Enhancements
+<h3>📌 Future Enhancements</h3>
 Interactive drill-through for deeper insights.
 Advanced forecasting models for predictive analytics.
 Integration with live data sources.
-📞 Contact
+<h3>📞 Contact</h3>
 For inquiries or feedback, please reach out via GitHub issues or email.
