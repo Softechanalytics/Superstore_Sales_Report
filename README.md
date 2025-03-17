@@ -35,9 +35,8 @@
 <li>Power BI: Data visualization</li>
 <li>Excel / SQL: Data preparation</li>
 <li>DAX / M Query: Data modeling</li>
-![isaac!](https://github.com/Softechanalytics/Superstore_Sales_Report/blob/7cda56ea760584fa6b9a2f5b642587b69845b994/model.png)
 
-
+![image](https://github.com/Softechanalytics/Superstore_Sales_Report/blob/4ec5d9e473a50f31b76e604a45cdb57f5c1025e2/model.png)
 <h3>📌 Future Enhancements</h3>
 <li>Interactive drill-through for deeper insights.</li>
 <li>Advanced forecasting models for predictive analytics.</li>
