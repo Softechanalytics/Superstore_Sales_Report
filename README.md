@@ -12,16 +12,18 @@
 <li>State-Level Filtering: Select states to analyze specific data points.</li>
   </ul>
 <h3>📌 Insights</h3>
-Total sales: $2.3M+
-Total quantity sold: 38K+
-Total profit: $286K
-Most profitable sub-category: Copiers (~$56K profit)
-Least profitable sub-category: Tables (-$18K loss)
-Regional profit distribution:
-West: 108K
-Central: 40K
-East: 31.9K
-Top-performing customer segments: Corporate and Home Office
+<ul>
+<li>Total sales: $2.3M+</li>
+<li>Total quantity sold: 38K+</li>
+<li>Total profit: $286K</li>
+<li>Most profitable sub-category: Copiers (~$56K profit)</li>
+<li>Least profitable sub-category: Tables (-$18K loss)</li>
+<h4>Regional profit distribution:</h4>
+<li>West: 108K</li>
+<li>Central: 40K</li>
+<li>East: 31.9K</li>
+<h4>Top-performing customer segments: Corporate and Home Office</h4>
+  </ul>
 <h3>🚀 How to Use</h3>
 Open the Power BI dashboard.
 Use state filters to analyze specific locations.
