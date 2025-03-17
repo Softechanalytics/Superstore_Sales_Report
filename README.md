@@ -12,6 +12,8 @@
 <li>State-Level Filtering: Select states to analyze specific data points.</li>
   </ul>
 <h3>📌 Insights</h3>
+
+![image alt](https://github.com/Softechanalytics/Superstore_Sales_Report/blob/1b85ffdf9dc296ebea31cb5b8c265994ddce8145/main_page.png)
 <ul>
 <li>Total sales: $2.3M+</li>
 <li>Total quantity sold: 38K+</li>
